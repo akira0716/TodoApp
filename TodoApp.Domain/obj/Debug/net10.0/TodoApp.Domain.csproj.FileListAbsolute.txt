@@ -1,0 +1,11 @@
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.deps.json
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.dll
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\bin\Debug\net10.0\TodoApp.Domain.pdb
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.AssemblyInfo.cs
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.dll
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\refint\TodoApp.Domain.dll
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\TodoApp.Domain.pdb
+C:\Users\akira\work\tmp\CSharp\TodoApp\TodoApp.Domain\obj\Debug\net10.0\ref\TodoApp.Domain.dll

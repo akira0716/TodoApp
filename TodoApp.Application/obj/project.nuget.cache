@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8b9aTT9Vug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akira\\work\\tmp\\CSharp\\TodoApp\\TodoApp.Application\\TodoApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akira\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
